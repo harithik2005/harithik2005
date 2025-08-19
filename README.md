@@ -50,7 +50,7 @@
 
 ## 🌱 Currently  
 
-- Preparing for **placements (Amazon, Google, TCS, Accenture, etc.)**  
+- Preparing for **placements (Amazon, Google, Microsoft, Apple, etc.)**  
 - Building projects in **Blockchain, Backend, and AI**  
 - Improving **problem-solving & communication skills**  
 
