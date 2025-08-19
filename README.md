@@ -46,7 +46,6 @@
 
 ## 📊 GitHub Stats  
 
-![Harithik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harithik2005&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harithik2005&layout=compact&theme=tokyonight)  
 
 ---
@@ -64,3 +63,6 @@
 - [LinkedIn](https://www.linkedin.com/in/harithik-sharma/)  
 - [GitHub](https://github.com/harithik2005)  
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=harithik2005&color=blue&style=flat-square) 
