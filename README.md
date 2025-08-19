@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Harithik Sharma  
 
-<!--
-**harithik2005/harithik2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student @ Guru Nanak Dev University  
+💻 Interested in Backend Development, Java, and Blockchain  
+🚀 Always eager to learn and build real-world applications  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages:** Java, Python, C++, JavaScript  
+- **Frameworks:** Spring Boot, Django, Servlets  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+- [Blockchain Simulator](https://github.com/harithik2005/BlockchainSimulator) – Java, Spring Boot, JS | Wallet generation, transaction signing & blockchain visualization  
+- [Dcare](https://github.com/harithik2005/Dcare) – Java Servlets, MySQL | Online appointment booking system  
+- [SmartKissan](https://github.com/harithik2005/SmartKissan) – Farmer marketplace with weather forecasting  
+- [Redrop](https://github.com/harithik2005/Redrop) – Django-based blood bank management system  
+- [IoT Smart Parking](https://github.com/harithik2005/SmartParking) – Arduino, Sensors | Automated parking  
+
+## 📫 Connect With Me  
+[LinkedIn](https://linkedin.com/in/harithik-sharma-798438222) | [Email](mailto:sharmaharithik2005@gmail.com)  
