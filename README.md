@@ -38,8 +38,6 @@
 ### 📝 [Java Quiz App](https://github.com/harithik2005/Java-Quiz-App)  
 💡 Console-based quiz application built in Java with multiple-choice questions.  
 
-### 🌐 [Blockchain Explorer (Frontend)](https://github.com/harithik2005/BlockchainExplorer)  
-💡 Blockchain explorer for visualizing JSON blockchain data, with search, filters, and modal details.  
 
 ---
 
