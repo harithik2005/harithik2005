@@ -27,16 +27,16 @@
 ## 📂 Featured Projects  
 
 ### 🔗 [Blockchain Simulator](https://github.com/harithik2005/BlockchainSimulator)  
-💡 Java backend + HTML/CSS/JS frontend for blockchain visualization, wallet generation, transaction signing, and blockchain explorer.  
+  💡 Java backend + HTML/CSS/JS frontend for blockchain visualization, wallet generation, transaction signing, and blockchain explorer.  
 
 ### 🏥 [Dcare](https://github.com/harithik2005/Dcare)  
-💡 Online appointment booking system using Java Servlets, HTML, CSS, and MySQL.  
+  💡 Online appointment booking system using Java Servlets, HTML, CSS, and MySQL.  
 
 ### 👨‍💼 [Java JDBC Employee App](https://github.com/harithik2005/EmployeeApp)  
-💡 Java application with MySQL integration for employee management (CRUD operations with JDBC).  
+  💡 Java application with MySQL integration for employee management (CRUD operations with JDBC).  
 
 ### 📝 [Java Quiz App](https://github.com/harithik2005/Java-Quiz-App)  
-💡 Console-based quiz application built in Java with multiple-choice questions.  
+  💡 Console-based quiz application built in Java with multiple-choice questions.  
 
 
 ---
