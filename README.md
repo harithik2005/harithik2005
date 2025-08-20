@@ -58,7 +58,7 @@
 
 ## 📫 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/harithik-sharma/)  
+- [LinkedIn](https://www.linkedin.com/in/harithik-sharma-798438222/)  
 - [GitHub](https://github.com/harithik2005)  
 
 ---
